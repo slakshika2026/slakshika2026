@@ -13,7 +13,7 @@
 - 👯 I’m looking to collaborate on web and mobile app development projects 
 - 😄 Pronouns: Sandu 
 - ⚡ Fun fact: A Choco-Lover
-- - 📫 How to reach me **sandunilakshika2026@gmail.com**
+- 📫 How to reach me **sandunilakshika2026@gmail.com**
 
 
 <br><br>
