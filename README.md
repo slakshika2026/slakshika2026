@@ -1,10 +1,10 @@
 <div align="center">
   <b><h1>Hi 👋, I'm Sanduni Lakshika</h1></b>
   <b><h3>IT Undergraduate | University of Moratuwa</h3></b>
-  ![Untitled design (14)](https://github.com/slakshika2026/slakshika2026/assets/110313255/b24f30e7-d31f-4eeb-b456-0e871343f2f2)
-
-  <h4></h4>A coding enthusiast, music lover with a creative soul..!<h4/>
+  <img src="https://github.com/slakshika2026/slakshika2026/assets/110313255/b24f30e7-d31f-4eeb-b456-0e871343f2f2" alt="Untitled design (14)">
+  <h4>A coding enthusiast, music lover with a creative soul..!</h4>
 </div>
+
 
 
 
