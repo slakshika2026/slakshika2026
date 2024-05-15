@@ -1,4 +1,4 @@
-## Hi👋, I'm Sanduni Lakshika
+# Hi👋, I'm Sanduni Lakshika
 ### IT Undergraduate | University of Moratuwa
 A coding enthusiast, music lover with a creative soul..!
 
