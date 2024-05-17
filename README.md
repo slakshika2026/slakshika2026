@@ -20,6 +20,7 @@
 <div align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=slakshika2026&" alt="slakshika2026" /></div><br><br>
 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=slakshika2026" alt="slakshika2026" /></a> </p>
 
 
 
@@ -35,6 +36,8 @@
 &nbsp<a href="https://www.hackerrank.com/sandunilakshika2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sandunilakshika2" height="30" width="40" /></a>
 </p>
 <br>
+
+
 
 
 
