@@ -15,6 +15,7 @@
 - 😄 Pronouns: Sandu 
 - ⚡ Fun fact: A Choco-Lover
 - 📫 How to reach me: **sandunilakshika2026@gmail.com**
+- 📝 Check out My blogs on [https://medium.com/@sandunilakshika2026](https://medium.com/@sandunilakshika2026)
 
 <br><br>
 <div align="center">
@@ -30,10 +31,12 @@
 </div><br><br>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=slakshika2026&show_icons=true&locale=en&layout=compact" alt="slakshika2026" />
 <br><br><br><br>
+
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sandunilakshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandunilakshi" height="30" width="40" /></a>
+<div align="left">
+&nbsp<a href="https://linkedin.com/in/sandunilakshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandunilakshi" height="30" width="40" /></a>
 &nbsp<a href="https://www.hackerrank.com/sandunilakshika2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sandunilakshika2" height="30" width="40" /></a>
+  &nbsp<a href="https://medium.com/@sandunilakshika2026" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sandunilakshika2026" height="30" width="40" /></a>
 </p>
 <br>
 
