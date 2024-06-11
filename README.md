@@ -15,7 +15,7 @@
 - 😄 Pronouns: Sandu 
 - ⚡ Fun fact: A Choco-Lover
 - 📫 How to reach me: **sandunilakshika2026@gmail.com**
-- 📝 Check out My blogs on [https://medium.com/@sandunilakshika2026](https://medium.com/@sandunilakshika2026)
+- 📝 Check out My blogs on: **https://medium.com/@sandunilakshika2026**
 
 <br><br>
 <div align="center">
