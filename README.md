@@ -18,7 +18,7 @@
 - 📝 Check out My blogs on: **https://medium.com/@sandunilakshika2026**
 
 <br><br>
-<div align="center">
+<div align="left">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=slakshika2026&" alt="slakshika2026" /></div><br><br>
 
 ![](https://github.com/ryo-ma/github-profile-trophy)![](https://github-profile-trophy.vercel.app/?username=slakshika2026)
@@ -40,7 +40,7 @@
   &nbsp<a href="https://medium.com/@sandunilakshika2026" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sandunilakshika2026" height="30" width="40" /></a>
 </p>
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=slakshika2026)](https://github.com/slakshika2026/github-profile-trophy)
 
 
 
