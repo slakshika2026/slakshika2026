@@ -33,8 +33,6 @@
 ![](https://github.com/ryo-ma/github-profile-trophy)![](https://github-profile-trophy.vercel.app/?username=slakshika2026)
 
 
-
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=slakshika2026&show_icons=true&locale=en" alt="slakshika2026" /></p>
 
 
