@@ -1,0 +1,28 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # Runs every hour
+  push:
+    branches:
+      - main  # Change to your default branch if not main
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Run script to update README
+        run: |
+          echo "Updating README..."
+          echo "# Hi 👋, I'm Sanduni Lakshika\nIT Undergraduate | University of Moratuwa\n\n![Image](https://github.com/slakshika2026/slakshika2026/assets/110313255/4d66d5b4-7059-459e-856c-269f9e3fd5ba)\nA coding enthusiast, music lover with a creative soul..!\n\n- 🌱 I’m currently learning MERN stack\n- 👯 I’m looking to collaborate on web and mobile app development projects\n- 😄 Pronouns: Sandu\n- ⚡ Fun fact: A Choco-Lover\n- 📫 How to reach me: **sandunilakshika2026@gmail.com**\n- 📝 Check out My blogs on: **https://medium.com/@sandunilakshika2026**\n\n## Languages and Tools:\n<!-- Add your languages and tools here -->\n\n![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slakshika2026&layout=compact)\n![Streak](https://github-readme-streak-stats.herokuapp.com/?user=slakshika2026&)\n\n## Connect with me:\n<!-- Add your social links here -->" > README.md
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git commit -m "Update README"
+          git push
