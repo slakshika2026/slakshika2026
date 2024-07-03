@@ -33,7 +33,10 @@
 ![](https://github.com/ryo-ma/github-profile-trophy)![](https://github-profile-trophy.vercel.app/?username=slakshika2026)
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=slakshika2026&show_icons=true&locale=en" alt="slakshika2026" /></p>
+![](https://github-readme-stats.vercel.app/api?username=slakshika2026&show_icons=true)
+
+
+
 
 
 <h3 align="left">Connect with me:</h3>
@@ -42,8 +45,6 @@
 &nbsp<a href="https://www.hackerrank.com/sandunilakshika2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sandunilakshika2" height="30" width="40" /></a>
   &nbsp<a href="https://medium.com/@sandunilakshika2026" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sandunilakshika2026" height="30" width="40" /></a>
 </p>
-
-
 
 
 
