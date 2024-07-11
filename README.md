@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning MERN stack 
 - 👯 I’m looking to collaborate on web and mobile app development projects 
 - 😄 Pronouns: Sandu 
-- ⚡ Fun fact: A Choco-Lover
+- ⚡ Fun fact: A Pizza-Lover
 - 📫 How to reach me: **sandunilakshika2026@gmail.com**
 - 📝 Check out My blogs on: **https://medium.com/@sandunilakshika2026**
 
