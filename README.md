@@ -25,7 +25,8 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slakshika2026&hide_progress=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slakshika2026&langs_count=8)
 
 <br><br>
 <div align="left">
