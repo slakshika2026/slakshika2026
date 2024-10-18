@@ -1,12 +1,17 @@
 <div align="center">
   <b><h1>Hi 👋, I'm Sanduni Lakshika</h1></b>
   <b><h2>IT Undergraduate | University of Moratuwa</h2></b>
+
+
+
+
+  
   <img src="https://github.com/slakshika2026/slakshika2026/assets/110313255/4d66d5b4-7059-459e-856c-269f9e3fd5ba" alt="Untitled design (14)" width="300" height="300">
   <h3><b></b>A coding enthusiast, music lover with a creative soul..!<b></b></h3>
 </div><br>
 
 
-
+ A passionate and skilled undergraduate committed to achieving goals through smartwork and embracing challenges and also committed to continuous learning and actively seek opportunities to expand my knowledge in emerging technologies and software development methodologies. My goal is to contribute effectively to collaborative projects and be part of innovative teams.
 
 
 
