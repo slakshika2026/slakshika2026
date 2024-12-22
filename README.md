@@ -15,7 +15,7 @@
 
 
 
-- 🌱 I’m currently learning MERN stack, Typescript and Nextjs 
+- 🌱 I’m currently learning MERN stack, Typescript, Nextjs and Springboot 
 - 👯 I’m looking to collaborate on web and mobile app development projects 
 - 😄 Pronouns: Sandu 
 - ⚡ Fun fact: A Pizza-Lover
