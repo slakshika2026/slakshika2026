@@ -31,11 +31,13 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slakshika2026&langs_count=8)
+
+<div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=slakshika2026&show_icons=true&locale=en&layout=compact" alt="slakshika2026" /></div><br>
 
 
 <div align="left">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=slakshika2026&" alt="slakshika2026" /></div><br>
+
 
 ![](https://github.com/ryo-ma/github-profile-trophy)![](https://github-profile-trophy.vercel.app/?username=slakshika2026)
 
