@@ -1,5 +1,5 @@
 <div align="center">
-  <b><h1>Hi 👋, I'm Sanduni Lakshika</h1></b>
+  <b><h1>Hi, I'm Sanduni Lakshika</h1></b>
   <b><h2>IT Undergraduate | University of Moratuwa</h2></b>
 
 
