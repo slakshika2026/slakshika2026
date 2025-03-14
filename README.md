@@ -36,7 +36,12 @@
 
 
 <div align="left">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=slakshika2026&" alt="slakshika2026" /></div><br>
+  
+  ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user="slakshika2026")
+  
+</div><br>
+
+
 
 
 ![](https://github.com/ryo-ma/github-profile-trophy)![](https://github-profile-trophy.vercel.app/?username=slakshika2026)
