@@ -32,7 +32,8 @@
 
 
 
-<div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=slakshika2026&show_icons=true&locale=en&layout=compact" alt="slakshika2026" /></div><br>
+<div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slakshika2026&theme=default&show_icons=true&hide_border=true&layout=compact" alt="slakshika2026's GitHub Stats" /></div><br>
+
 
 
 <div align="left">
@@ -47,8 +48,7 @@
 ![](https://github.com/ryo-ma/github-profile-trophy)![](https://github-profile-trophy.vercel.app/?username=slakshika2026)
 
 
-![](https://github-readme-stats.vercel.app/api?username=slakshika2026&show_icons=true)
-
+<img src="https://github-readme-stats.vercel.app/api?username=slakshika2026&theme=default&show_icons=true&hide_border=true&count_private=true" alt="slakshika2026's GitHub Stats" />
 
 
 
