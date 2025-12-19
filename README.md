@@ -31,16 +31,16 @@
 
 
 
-<div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slakshika2026&theme=default&show_icons=true&hide_border=true&layout=compact" alt="slakshika2026's GitHub Stats" /></div><br>
+<!-- <div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slakshika2026&theme=default&show_icons=true&hide_border=true&layout=compact" alt="slakshika2026's GitHub Stats" /></div><br> -->
 
 
 
-<div align="left">
+<div align="center">
   
 
-  ![](https://github-readme-stats.vercel.app/api?username=slakshika2026&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=slakshika2026&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=slakshika2026&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  ![](https://github-readme-stats.vercel.app/api?username=slakshika2026&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
+![](https://nirzak-streak-stats.vercel.app/?user=slakshika2026&theme=dark&hide_border=false)<br/><br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=slakshika2026&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/><br/>
   
 </div><br>
 
@@ -50,13 +50,13 @@
 ![](https://github.com/ryo-ma/github-profile-trophy)![](https://github-profile-trophy.vercel.app/?username=slakshika2026)
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=slakshika2026&theme=default&show_icons=true&hide_border=true&count_private=true" alt="slakshika2026's GitHub Stats" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=slakshika2026&theme=default&show_icons=true&hide_border=true&count_private=true" alt="slakshika2026's GitHub Stats" /> -->
 
 
 
 
-<h3 align="left">Connect with me:</h3>
-<div align="left">
+<h3 align="center">Connect with me:</h3>
+<div align="center">
 &nbsp<a href="https://linkedin.com/in/sandunilakshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandunilakshi" height="30" width="40" /></a>
 &nbsp<a href="https://www.hackerrank.com/sandunilakshika2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sandunilakshika2" height="30" width="40" /></a>
   &nbsp<a href="https://medium.com/@sandunilakshika2026" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sandunilakshika2026" height="30" width="40" /></a>
