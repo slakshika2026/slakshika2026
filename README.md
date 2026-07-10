@@ -3,10 +3,9 @@
   <b><h2>IT Undergraduate | University of Moratuwa</h2></b>
 
 
-
-
+<img src="sanduni-ascii-only.svg" alt="Sanduni ascii portrait" width="700" />
   
-  <img src="https://github.com/slakshika2026/slakshika2026/assets/110313255/4d66d5b4-7059-459e-856c-269f9e3fd5ba" alt="Untitled design (14)" width="300" height="300">
+  <!-- <img src="https://github.com/slakshika2026/slakshika2026/assets/110313255/4d66d5b4-7059-459e-856c-269f9e3fd5ba" alt="Untitled design (14)" width="300" height="300"> -->
   <h3><b></b>A coding enthusiast, music lover with a creative soul..!<b></b></h3>
 </div><br>
 
