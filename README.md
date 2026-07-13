@@ -22,9 +22,144 @@
 - 📝 Check out My blogs on: **https://medium.com/@sandunilakshika2026**
 
   <br>
-<h3 align=left">Languages and Tools:</h3>
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+<h3 align="left">Languages & Tools</h3>
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+<table>
+<tr><td colspan="3" align="center"><b>Languages</b></td></tr>
+<tr>
+<td align="center">Java<br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></td>
+<td align="center">JavaScript<br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></td>
+<td align="center">TypeScript<br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/></td>
+</tr>
+<tr>
+<td align="center">Python<br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></td>
+<td align="center">C<br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/></td>
+<td align="center">SQL<br><img src="https://www.svgrepo.com/show/331760/sql.svg" width="40" height="40"/></td>
+</tr>
+</table>
+
+</td>
+<td valign="top" width="50%">
+
+<table>
+<tr><td colspan="3" align="center"><b>Frontend Development</b></td></tr>
+<tr>
+<td align="center">React<br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/></td>
+<td align="center">Next.js<br><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40"/></td>
+<td align="center">React Native<br><img src="https://reactnative.dev/img/header_logo.svg" width="40"/></td>
+</tr>
+<tr>
+<td align="center">Tailwind CSS<br><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/></td>
+<td align="center">Bootstrap<br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40"/></td>
+<td align="center">HTML5 / CSS3<br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/></td>
+</tr>
+</table>
+
+</td>
+</tr>
+
+<tr>
+<td valign="top" width="50%">
+
+<table>
+<tr><td colspan="3" align="center"><b>Backend Development</b></td></tr>
+<tr>
+<td align="center">Node.js<br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/></td>
+<td align="center">Express.js<br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/></td>
+<td align="center">Spring Boot<br><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40"/></td>
+</tr>
+<tr>
+<td align="center">REST API<br><img src="https://cdn-icons-png.flaticon.com/512/2165/2165004.png" width="40"/></td>
+<td align="center">JWT<br><img src="https://jwt.io/img/pic_logo.svg" width="40"/></td>
+<td></td>
+</tr>
+</table>
+
+</td>
+<td valign="top" width="50%">
+
+<table>
+<tr><td colspan="3" align="center"><b>Databases</b></td></tr>
+<tr>
+<td align="center">MySQL<br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></td>
+<td align="center">PostgreSQL<br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/></td>
+<td align="center">MongoDB<br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/></td>
+</tr>
+<tr>
+<td align="center">Redis<br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40"/></td>
+<td align="center">SQLite<br><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40"/></td>
+<td align="center">MS SQL Server<br><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40"/></td>
+</tr>
+</table>
+
+</td>
+</tr>
+
+<tr>
+<td valign="top" width="50%">
+
+<table>
+<tr><td colspan="3" align="center"><b>Cloud & DevOps</b></td></tr>
+<tr>
+<td align="center">Docker<br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/></td>
+<td align="center">AWS<br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/></td>
+<td align="center">Google Cloud<br><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40"/></td>
+</tr>
+<tr>
+<td align="center">Firebase<br><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/></td>
+<td align="center">Appwrite<br><img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" width="40"/></td>
+<td align="center">Linux<br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/></td>
+</tr>
+</table>
+
+</td>
+<td valign="top" width="50%">
+
+<table>
+<tr><td colspan="3" align="center"><b>AI / Machine Learning</b></td></tr>
+<tr>
+<td align="center">PyTorch<br><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/></td>
+<td align="center">Scikit-learn<br><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/></td>
+<td align="center">OpenCV<br><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/></td>
+</tr>
+<tr>
+<td align="center">Pandas<br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+</td>
+</tr>
+
+<tr>
+<td valign="top" width="50%">
+
+<table>
+<tr><td colspan="3" align="center"><b>Tools</b></td></tr>
+<tr>
+<td align="center">Postman<br><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/></td>
+<td align="center">Figma<br><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/></td>
+<td align="center">Git<br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/></td>
+</tr>
+<tr>
+<td align="center">GitHub<br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+</td>
+<td valign="top" width="50%"></td>
+</tr>
+
+</table>
 
 
 
