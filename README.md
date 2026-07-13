@@ -76,7 +76,6 @@ Prioritizes engineering fundamentals over allegiance to any single technology st
 <tr>
 <td align="center">Python<br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></td>
 <td align="center">C<br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/></td>
-<td align="center">SQL<br><img src="https://www.svgrepo.com/show/331760/sql.svg" width="40" height="40"/></td>
 </tr>
 </table>
 
